@@ -1,9 +1,12 @@
-div > h1  {
+h1  {
     background-color: #ff9400;
     margin-top: 0;
     padding: 30px 30px 30px 50px;
 }
 
+a{
+    color: white;
+}
 .page-header h2, .page-header h2 a, .page-header h2 a:visited, .page-header h2 a:active {
     color: white;
     font-size: 36pt;
